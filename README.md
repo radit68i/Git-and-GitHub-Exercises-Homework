@@ -4,3 +4,5 @@ change from browser
 edit from local master
 change from develop local
 develop
+
+edit local, GitBash
