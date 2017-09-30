@@ -1,2 +1,4 @@
 add secondFile to test GitBash
 change from master local to make conflict
+
+edit from newBranch local to make conflict
